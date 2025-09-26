@@ -46,7 +46,8 @@ El sistema analiza la voz del usuario, detecta posibles errores de pronunciació
 *Pantalla inicial de la aplicación móvil desarrollada en Flutter.*
 
 <img width="387" height="667" alt="image" src="https://github.com/user-attachments/assets/d7f02cc3-dbf8-455a-a27a-bea955b8af24" />
-<img width="387" height="667" alt="image" src="https://github.com/user-attachments/assets/07eb80ab-83d7-45d0-b626-e4bbe626e842" />
+<img width="387" height="667" alt="image" src="https://github.com/user-attachments/assets/5d0b5b58-0860-4c6c-b36c-44e23560ed86" />
+
 
 *Ejemplo de ejercicios sugeridos al usuario para mejorar su pronunciación.*
 
